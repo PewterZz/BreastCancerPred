@@ -1,4 +1,4 @@
-# Breast Cancer Prediction
+# Breast Cancer Prediction - Final Project
 
 - Peter Nelson Subrata - 2502023562
 
