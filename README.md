@@ -1,4 +1,4 @@
-# BreastCancerPred
+# Breast Cancer Prediction 
 
 Peter Nelson Subrata - 2502023562
 
