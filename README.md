@@ -1,6 +1,7 @@
 # Breast Cancer Prediction - Final Project
 
 - Peter Nelson Subrata - 2502023562
+https://peternelsonsub.com/wordpress/
 
 - Philipus Adriel Tandra - 2502031715
 
