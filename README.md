@@ -2,7 +2,7 @@
 
 - Peter Nelson Subrata - 2502023562 - https://peternelsonsub.com/wordpress/
 
-- Philipus Adriel Tandra - 2502031715
+- Philipus Adriel Tandra - 2502031715 - https://philipusadrieltandra.github.io/blog/
 
 - Vincent Yono - 2502009583
 
