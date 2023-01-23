@@ -4,7 +4,7 @@
 
 - Philipus Adriel Tandra - 2502031715 - https://philipusadrieltandra.github.io/blog/
 
-- Vincent Yono - 2502009583
+- Vincent Yono - 2502009583 - https://vincentyono.github.io/STAT6171001-Final-Project-Report/
 
 ### Abstract
 
